@@ -8,6 +8,7 @@ namespace projeto_teste
         {
             Console.WriteLine("Olá Mundo!");
             Console.WriteLine("Ygor Araújo, esta aqui");
+            Console.WriteLine("Mundo C#, e Git");
             Console.ReadLine();
         }
     }
